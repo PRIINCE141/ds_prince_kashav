@@ -1,12 +1,8 @@
 Trader Behavior vs Market Sentiment Analysis
 Candidate: Prince Kashav
-Google Colab Notebook:
-
-View Notebook
-
-GitHub Repository:
-
-https://github.com/PRIINCE141/MY-SQL
+Google Colab Notebook:https://colab.research.google.com/drive/1eFQPQ4MgHwB1xbm5ZQ4mXU3E2Ceuv0fj?usp=sharing
+drive link https://1drv.ms/f/c/cad7999d5a776d23/Ek5OyWBYoU1LobN4QgZ1sMkBqhWvUvng-_FynUdUfWs0xQ?e=xwquoA
+GitHub Repository:[https://github.com/PRIINCE141/MY-SQL](https://github.com/PRIINCE141/ds_prince_kashav)
 
 Project Overview
 
